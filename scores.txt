@@ -1,0 +1,7 @@
+sergio;68
+vitor;1735
+pablo;3674
+bruno;1692
+alex;3991
+Ana;1635
+Augusto;4735
